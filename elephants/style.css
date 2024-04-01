@@ -1,0 +1,23 @@
+.logo{
+        width: 75px;
+        height: 50px;
+}
+.nav-list{
+         
+}
+h1{
+    color:black;
+}
+img{
+    width: 650px;
+    heigth: 550px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    height:300px;
+    width:300px;
+    border-style: dashed;
+}
